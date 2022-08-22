@@ -6,7 +6,7 @@ pip install selenium
 pip install bs4
 ```
 
-# How to use
+# Run
 
 ```
 make
